@@ -1,0 +1,19 @@
+---
+title: "Taehee"
+output: html_document
+---
+
+## Information
+
+- Educational interests:
+  + Cellular bioengineering
+  + Data analysis
+  + Computer-aided engineering
+- Professional interests:
+  + Emerging biotech, e.g. cellular agriculture
+  + Medical devices
+  + Biotech/medical tech consulting
+- Personal interests:
+  + Hydroponic gardening
+  + Foraging
+  
