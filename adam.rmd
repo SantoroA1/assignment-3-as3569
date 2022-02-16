@@ -1,0 +1,16 @@
+---
+title: "Adam Santoro"
+output: html_document
+---
+
+## Information
+
+- Education:
+  + Finished my undergrad here at Cornell last spring in Food Science
+  + Currently working on my Master of Food Science 
+- Professional aspirations:
+  + I would like to work for a food and beverage company in product development
+- Personal interests: 
+  + I love wrestling and am on the team here at Cornell 
+  + One of my favorite hobbies includes fishing both in salt and freshwater
+  + I am also a foodie and enjoy music
