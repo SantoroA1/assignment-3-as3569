@@ -5,7 +5,7 @@ output: html_document
 
 ## Information
 
-- Educational interests:
+- Academic interests:
   + Cellular bioengineering
   + Data analysis
   + Computer-aided engineering
